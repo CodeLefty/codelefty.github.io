@@ -1,0 +1,29 @@
+img {
+	border: 2px solid black;
+}
+h1{
+	color: magenta;
+}
+h2 {
+	border-bottom: 1px solid black;
+}
+a { color: magenta
+	;}
+li {list-style-type: square;
+}
+
+
+body {background-color: light grey;}
+p {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 50px;
+}
+
+
+.Garance {color: blue;}
+
+
+
+
